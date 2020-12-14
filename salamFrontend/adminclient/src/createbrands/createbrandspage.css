@@ -1,0 +1,13 @@
+.card-profile.vendorprofile{
+	background-image: url('http://gropse.com/gropse.com/design/fundmaster.com/admin/images/userback.jpg');    
+	background-position: center; 
+	background-size:cover;
+}
+
+.custom-file {
+	min-width: 210px;
+}
+
+.modal-open .modal{
+	opacity: 1;
+}

@@ -1,0 +1,50 @@
+.seller-fluid .owl-item .item {
+    margin: 0px 20px;
+}
+
+.seller-fluid .new_title h2 {
+    border: 1px solid #924d0100;
+    border-bottom: 2px solid #126be8;
+    color: #000000;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: normal;
+    margin-top: 0px;
+    padding: 10px 15px 7px 15px;
+    position: relative;
+    text-transform: initial;
+    letter-spacing: 0.5px;
+}
+.seller-fluid  .product-flexslider {
+    margin: 40px -10px;
+}
+.seller-fluid  .new_title.center {
+    height: 43px;
+}
+.seller-fluid .slider-items-products .owl-buttons a {
+    margin: -40px 0 0;
+    }
+
+.seller-fluid    .slider-items-products .owl-buttons a:hover {
+    text-decoration: none;
+    opacity: 1;
+    color: #fff;
+    background: #126be8;
+    border: 1px #126be8 solid;
+}
+.seller-fluid  .new_title {
+    border-bottom: 2px solid #dceaff;
+}
+.seller-fluid .col-item .info .info-inner .item-title a {
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+}
+.seller-fluid .col-item .info {
+    text-align: left;
+}
+.seller-fluid .col-item .info .info-inner .item-title a:hover {
+    color: #126be8;
+}

@@ -1,0 +1,145 @@
+.signupmodal .loginsignup li a , .signupmodal .loginsignup li a:hover , .signupmodal .loginsignup li a:focus{
+    border: none;
+    background: #ffffff;
+    color: #848588;
+}
+.signupmodal .loginsignup li.active a , .signupmodal .loginsignup li.active a:hover , .signupmodal .loginsignup li.active a:focus{
+    border: none;
+    border-bottom: 2px solid #2480fe;
+    background: #ffffff;
+    color: #126be8;
+}
+.signupmodal .loginsignup {
+text-align: center;
+margin-top: 30px;
+}
+
+.signupmodal .loginsignup .nav.nav-tabs{
+    margin: 0 auto;
+    display: inline-block;
+    border-bottom: none;
+}
+.signupmodal .loginsignup .nav.nav-tabs{
+    margin: 0 auto;
+    display: inline-block;
+    border-bottom: none;
+}
+  
+/* background-color: green; */
+.Forget.two{
+    display: none;
+  }
+
+.form-group.sec{
+    margin-top: 30px;
+}
+
+.arrow{
+    margin-right: 200px;
+    margin-bottom: 20px!important;
+    background: #14763b;
+    color: white;
+    padding: 4px 4px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+/*  */
+
+.signupmodal .rightpart{
+    background-image: url(http://gropse.com/gropse.com/design/souqalasal.com/common/images/loginsignup.png);
+    width: 100%;
+    background-size: 100% 450px;
+    padding: 52px 20px;
+    background-position: center;
+    height: 450px;
+}
+
+.signupmodal .modal-header {
+    min-height: 0;
+    padding: 0px;
+    border-bottom: 0px solid #e5e5e5;
+}
+.signupmodal .modal-body {
+    position: relative;
+    padding: 0px;
+}
+.signupmodal .rightpart h3{
+    margin-top: 0px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.signupmodal .rightpart p{
+    color: #ffffffd1;
+    font-size: 12px;
+    line-height: 20px;
+}
+.signupmodal .modal-dialog {
+    width: 700px;
+    margin: 150px auto;
+}
+.signupmodal .close {
+    float: right;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1;
+    color: #fff;
+    text-shadow: 0 0px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: 1.2;
+    position: absolute;
+    top: 8px;
+    right: 13px;
+    z-index: 9999;
+    background: #ffffff47;
+    padding: 6px 10px;
+    border-radius: 20px;
+   margin-top: 10px!important;
+}
+.signupmodal .signupform .formdesign{
+    margin-top: 20px;
+}
+.signupmodal .signupform .heafingpoint h3{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 550;
+    color: #1b1111;
+}
+.signupmodal .signupform {
+    padding: 0px 0px 10px 30px;
+}
+.signupmodal .signupform .form-inline .form-group {
+    margin-bottom: 15px;
+    display: block;
+}
+.signupmodal .signupform .form-inline .form-group .btn-default {
+    color: #fff;
+    background-color: #2480fe;
+    border-color: #2480fe;
+    width: 100%;
+    height: 44px;
+    border-radius: 10px;
+}
+
+.signupmodal .signupform .formdesign .form-inline .form-control {
+    width: 100%;
+    height: 45px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #8894af5c;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+/*arrow  */
+  .my-arrow {
+margin-top:10px!important;
+}

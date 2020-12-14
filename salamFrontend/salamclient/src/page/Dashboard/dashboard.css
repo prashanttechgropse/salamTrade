@@ -1,0 +1,17 @@
+.main-container {
+    background-color: #eff3f7!important;
+    min-height: 400px!important;
+    padding: 50px 0 20px!important;
+    margin-top: 0px!important;
+}
+ .main-container .main.container{
+    padding: 30px 30px;
+    background: #fff;
+    border: 1px solid #e0edff;
+    border-radius: 4px;
+}
+
+.main-container .product-view .product-img-box {
+    margin-bottom: 130px;
+    position: relative;
+}

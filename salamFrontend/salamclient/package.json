@@ -1,0 +1,60 @@
+{
+  "name": "salamtrades",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^3.4.1",
+    "bootstrap-sass": "^3.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "loadjs": "^3.6.1",
+    "moment": "^2.24.0",
+    "query-string": "^6.8.3",
+    "react": "^16.10.2",
+    "react-bs-datatable": "^1.2.8",
+    "react-dom": "^16.10.2",
+    "react-inline-script": "^1.2.0",
+    "react-items-carousel": "^2.7.0",
+    "react-items-slider": "^1.0.6",
+    "react-load-script": "0.0.6",
+    "react-loader-spinner": "^3.1.4",
+    "react-multi-carousel": "^2.2.9",
+    "react-redux": "^7.1.1",
+    "react-responsive-carousel": "^3.2.9",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.0.1",
+    "react-search-field": "^1.0.0",
+    "react-stripe-checkout": "^2.6.3",
+    "react-toastify": "^5.4.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "sweetalert": "^2.1.2",
+    "validator": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-slide-me": "^1.0.1"
+  }
+}

@@ -1,0 +1,63 @@
+.processbar-fluid  {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.processbar-fluid ul {
+    width: 50%;
+    margin: 0 auto;
+}
+.processbar-fluid ul li{
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.processbar-fluid ul li:after{
+    content: "\f111";
+    font-family: FontAwesome;
+    font-size: 14px;
+    color: #abb4c1;
+    position: absolute;
+    top: -30px;
+    left: 45%;
+    padding: 0px 4px;
+    background: #abb4c1;
+    border-radius: 30px;
+}
+.processbar-fluid ul li:before  {
+    content: "";
+    position: absolute;
+    top: -21px;
+    right: 60%;
+    padding: 0px 4px;
+    background: #abb4c1;
+    border-radius: 30px;
+    width: 80%;
+    height: 2px;
+}
+
+.processbar-fluid ul li:nth-child(1):before {
+    display: none;
+    }
+.processbar-fluid ul li.active:after{
+    color: #ffffff;
+    background: #126be8;
+}
+.processbar-fluid ul li a{
+    font-size: 14px;
+    color: #abb4c1;
+    font-weight: 500;
+}
+.processbar-fluid ul li.active a{
+    color: #126be8;
+    font-weight: 500;
+}
+.processbar-fluid ul li.success a{
+    color: #0edac7;
+    font-weight: 500;
+}
+.processbar-fluid ul li.success:after{
+    color: #ffffff;
+    background: #0edac7;
+    content: "\f00c";
+}

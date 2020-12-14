@@ -1,0 +1,27 @@
+.privacy-policy {
+    padding: 30px 0;
+}
+.privacy-policy .heading-1 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.privacy-policy .heading-2 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.privacy-policy .para-styling {
+    font-size: 14px;
+    color: #08223a;
+    font-weight: 500;
+}
+.privacy-policy ul {
+    padding-left: 15px;
+}
+.privacy-policy ul li{
+    font-size: 12px;
+    font-weight: 550;
+}

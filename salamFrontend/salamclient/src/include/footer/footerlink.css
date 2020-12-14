@@ -1,0 +1,41 @@
+.footer .footer-bottom {
+    background: none repeat scroll 0 0 #131921;
+    padding: 30px 0 30px;
+}
+.footer  .coppyright {
+    color: #bdbdbd;
+    text-align: center;
+}
+.footer .footer-middle h4 {
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+    padding: 15px 0 10px;
+    text-transform: initial;
+}
+.footer  .footer-middle .links li a {
+    color: #e4e4e4;
+}
+.footer a, .footer p {
+    color: #eae8e8;
+}
+.footer .phone-footer {
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 25px;
+    color: #eae8e8;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.footer  .email-footer {
+    overflow: hidden;
+    margin-top: 0px;
+    font-size: 12px;
+}
+.footer  .email-footer a {
+    font-size: 12px;
+    line-height: 30px;
+    color: #eae8e8;
+}

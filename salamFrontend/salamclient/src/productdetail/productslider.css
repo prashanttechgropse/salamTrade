@@ -1,0 +1,88 @@
+.main-container .moreview_small_thumbs li.vertical {
+    float: left;
+}
+
+.main-container  .moreview_small_thumbs{
+    top: 450px!important;
+    height: 527.28px!important;
+    left: 15px;
+}
+.main-container  .moreview_thumb{
+    left: 0px!important;
+}
+.main-container .moreview-control a.moreview-prev {
+    position: absolute;
+    left: 0%;
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    color: #333;
+    bottom: -80px;
+    border-radius: 2px;
+}
+.main-container .moreview-control a.moreview-next {
+    position: absolute;
+    right: 18%!important;
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    color: #333;
+    bottom: -80px;
+    border-radius: 2px;
+    left: auto;
+}
+.main-container .moreview-control a.moreview-next:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+}
+.main-container .moreview-control a.moreview-prev:before {
+    content: "\f104";
+    font-family: FontAwesome;
+    font-size: 18px;
+}
+.main-container  .product-view .product-img-box .moreview-control {
+    opacity: 1;
+}
+.main-container .moreview-control a.moreview-prev:hover {
+    background-color: #126be8;
+    border: 1px #126be8 solid;
+    color: #fff;
+    transition: all 0.3s linear;
+}
+.main-container .moreview-control a.moreview-next:hover {
+    background-color: #126be8;
+    border: 1px #126be8 solid;
+    color: #fff;
+    transition: all 0.3s linear;
+}
+
+.product-img-box .mainimage{
+    height: 400px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.product-img-box .mainimage img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 10%;
+}
+
+.product-img-box  .moreimage{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+}
+
+.product-img-box  .moreimage a{
+    width: 25%;
+    float: left;
+    padding: 15px 5px;
+}
+.product-img-box  .moreimage a img{
+    width: 100%;
+    height: 130px;
+    border-radius: 2px;
+}

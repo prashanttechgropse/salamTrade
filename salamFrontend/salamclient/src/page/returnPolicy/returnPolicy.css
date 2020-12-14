@@ -1,0 +1,27 @@
+.return-policy {
+    padding: 30px 0;
+}
+.return-policy .heading-1 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.return-policy .heading-2 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.return-policy .para-styling {
+    font-size: 14px;
+    color: #08223a;
+    font-weight: 500;
+}
+.return-policy ul {
+    padding-left: 15px;
+}
+.return-policy ul li{
+    font-size: 12px;
+    font-weight: 550;
+}

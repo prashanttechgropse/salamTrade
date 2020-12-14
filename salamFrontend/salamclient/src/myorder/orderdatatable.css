@@ -1,0 +1,21 @@
+.orderdatatable{
+    margin-top: 40px;
+    border: 2px solid #ecececd9;
+    padding: 25px 15px 25px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 7px 30px -15px #a3b8d4;
+}
+.orderdatatable .form-group .input-group-btn .btn-default {
+    color: #fff;
+    background-color: #126be8;
+    border-color: #126be8;
+}
+.orderdatatable .btn-group-page-nav .btn-default.active{
+    color: #fff;
+    background-color: #126be8;
+    border-color: #126be8;
+}
+
+#formGroupPagination {
+    font-size: 12px;
+}

@@ -1,0 +1,41 @@
+.card-profile.vendorprofile{
+	background-image: url('http://gropse.com/gropse.com/design/fundmaster.com/admin/images/userback.jpg');    
+	background-position: center; 
+	background-size:cover;
+}
+.card-header .card-title{
+    width:100%;
+}
+.card-header .card-title span{
+    font-size: 14px;
+    float: right;
+    background: #267efa;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.locationinput{
+
+    border: 0;
+    background-image: linear-gradient(#9c27b0, #9c27b0), linear-gradient(#D2D2D2, #D2D2D2);
+    background-size: 0 2px, 100% 1px;
+    background-repeat: no-repeat;
+    background-position: center bottom, center calc(100% - 1px);
+    background-color: transparent;
+    transition: background 0s ease-out;
+    float: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-weight: 400;
+    height: 36px;
+    padding: 7px 0;
+
+}
+.Demo__dropdown-footer-image{
+    width: 100px;
+    float:right;
+}
+.Demo__clear-button{
+    display: none;
+}

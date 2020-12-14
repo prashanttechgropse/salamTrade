@@ -1,0 +1,47 @@
+ .reviewpart{
+    border: 1px solid #f1ebeb;
+    padding: 15px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 3px 34px -13px #a4b9d8;
+}
+.reviewpart .userpic img{
+    width: 40px;
+    border-radius: 20px;
+}
+.reviewpart .userpic h3{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: #1f1e1e;
+}
+.reviewpart .clientreview{
+    margin-top: 15px;
+}
+.reviewpart .clientreview h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #1f1e1e;
+}
+.reviewpart .clientreview p{
+    font-size: 12px;
+    color: #abaaa8;
+    font-weight: 500;
+}
+.writeaareview {
+    text-align: center;
+}
+.writeaareview a{
+    background: #126be8;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 25px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.writeaareview a:hover{
+    background: #126be8;
+    color: #fff;
+}

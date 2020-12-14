@@ -1,0 +1,11 @@
+.brand-item{
+    text-align: center;
+}
+.brand-name-container{
+    display: inline;
+    margin: 15px;
+}
+
+.brand-name-container span{
+    font-size: large;
+}

@@ -1,0 +1,49 @@
+.registerpage{
+    background:#267efa;    
+    background-size: cover !important;
+    height: 100vh;
+}
+.registerpage .loginbutton{
+    background: #2480fe;
+}
+.registerpage .signuptext  {
+    color: #635d5d !important;
+
+}
+.registerpage .signuptext a {
+    color: #2480fe;
+}
+.registerpage .signuploader {
+    z-index: 999;
+    position: fixed;
+    margin-top: 20%;
+    top: 0;
+    left: 47%;
+}
+.registerpage .signuploader svg{
+    stroke:#267efa;
+}
+
+.registerpage  .checkpassword {
+    position: relative;
+}
+.registerpage  .checkpassword .fa {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+ .Tooltip--Text {
+    width: 253px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+   
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+    margin: -90px 0px 0px 76px
+  }
+  

@@ -1,0 +1,74 @@
+.show-chatBox {
+    display: block !important;
+    opacity: 1 !important;
+}
+
+.hide-chatBox {
+    display: none !important;
+    opacity: 0 !important;
+}
+
+.chat-design-trade .modal-dialog{
+    bottom: 0;
+    position: absolute;
+    right: 5%;
+    width: 400px;
+    transform: translate(0, 0%)
+}
+ .chat-design-trade .modal-footer .form-inline .form-group {
+    width: 100%;
+    float: left;
+}
+ .chat-design-trade .modal-footer .form-inline .form-control{
+    width: 100%;
+    border-radius: 0px;
+    border: 1px solid #eaeaea;
+}
+ .chat-design-trade .modal-footer .form-inline button {
+    width: 100px;
+    background: #2480fe;
+    color: white;
+    border-color: #2480fe;
+    border-radius: 0px;
+}
+ .chat-design-trade .modal-body{
+    height: 300px;
+    overflow-y: auto;
+}
+ .chat-design-trade .received-messege{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+ .chat-design-trade .received-messege p{
+    background: whitesmoke;
+    max-width: 70%;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 0px 10px 0px 10px;
+    font-size: 14px;
+    float: right;
+}
+ .chat-design-trade .send-messege{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+ .chat-design-trade .send-messege p{
+    background: whitesmoke;
+    max-width: 70%;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 0px 10px 0px 10px;
+    font-size: 14px;
+}
+
+
+.ChatModal .modal-content{
+    width: unset;
+    height: unset;
+    top: unset;
+    left: unset;
+    /* background: unset; */
+    transform: unset;
+}

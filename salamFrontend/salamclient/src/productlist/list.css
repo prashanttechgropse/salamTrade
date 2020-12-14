@@ -1,0 +1,102 @@
+.productlist-fluid {
+    padding: 25px 40px 25px 40px!important;
+    border-radius: 4px;
+    border: 1px solid #f1eaea;
+}
+.productlist-fluid .product-image-area .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.productlist-fluid .category-title h1 {
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    text-transform: inherit;
+}
+.productlist-fluid  .breadcrumbs a {
+    color: #b1b1b1;
+}
+.productlist-fluid .category-title {
+    border-bottom: 1px solid #e6e4e4;
+}
+.productlist-fluid .col-item .info {
+    text-align: left;
+}
+ .productlist-fluid .col-item .info .info-inner .item-title a {
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+}
+ .productlist-fluid .col-item .info .info-inner .item-title a:hover {
+    color: #126be8;
+}
+ .productlist-fluid .special-price .price {
+    font-size: 12px;
+    color: #abaaa8;
+    font-weight: 500;
+}
+ .productlist-fluid  .item-content .special-price {
+    margin: 0px;
+    display: block;
+    margin-bottom: 4px;
+}
+ .productlist-fluid .pricepart{
+    margin-bottom: 5px;
+    padding-top: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    float: right;
+}
+.productlist-fluid .pricepart .price {
+    font-size: 16px;
+    color: #126be8;
+    font-weight: 550;
+}
+.productlist-fluid .pricepart .old-price .price {
+    font-size: 14px;
+    color: #dadbdc;
+    font-weight: 500;
+}
+.productlist-fluid .hover_fly {
+    background: #126be8;
+}
+.productlist-fluid  .hover_fly a:first-child {
+    background-color: #126be8;
+    width: 65%;
+}
+ .productlist-fluid   .hover_fly a {
+    background: #126be8;
+    border-right: 1px #126be8 solid;
+}
+ .productlist-fluid  .hover_fly a:hover {
+    width: 50% !important;
+    background-color: #126be8 !important;
+}
+ .productlist-fluid .hover_fly:hover a:first-child {
+    width: 50%;
+    background-color: #126be8;
+}
+.productlist-fluid .hover_fly .quick-view {
+    background: #6fa6f3;
+    border-right: 1px #6fa6f3 solid;
+    width: 35%;
+}
+
+.productlist-fluid .pages .pagination > .active > a, .productlist-fluid .pages .pagination > .active > span, .productlist-fluid .pages .pagination > .active > a:hover, .productlist-fluid .pages .pagination > .active > span:hover, .productlist-fluid .pages .pagination > .active > a:focus, .productlist-fluid .pages .pagination > .active > span:focus {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #126be8;
+    border-color: #126be8;
+}
+.productlist-fluid .pages {
+    display: inline-block;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}

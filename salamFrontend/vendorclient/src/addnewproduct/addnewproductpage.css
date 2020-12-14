@@ -1,0 +1,10 @@
+.ck-editor__editable p {
+    position: relative;
+    min-height: 300px!important;
+}
+
+.no-spin::-webkit-inner-spin-button, .no-spin::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+    -moz-appearance:textfield !important;
+}

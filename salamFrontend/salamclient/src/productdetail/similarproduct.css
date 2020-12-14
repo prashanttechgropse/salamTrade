@@ -1,0 +1,65 @@
+.similar-fluid .container{
+        padding: 30px 30px;
+    background: #fff;
+    border: 1px solid #e0edff;
+    border-radius: 4px;
+}
+.similar-fluid .product-image-area .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.similar-fluid .category-title h1 {
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    text-transform: inherit;
+}
+.similar-fluid  .breadcrumbs a {
+    color: #b1b1b1;
+}
+.similar-fluid .category-title {
+    border-bottom: 1px solid #e6e4e4;
+}
+.similar-fluid .col-item .info {
+    text-align: left;
+}
+ .similar-fluid .col-item .info .info-inner .item-title a {
+    font-size: 12px;
+    color: #000;
+    font-weight: 600;
+}
+ .similar-fluid .col-item .info .info-inner .item-title a:hover {
+    color: #126be8;
+}
+ .similar-fluid .special-price .price {
+    font-size: 12px;
+    color: #abaaa8;
+    font-weight: 500;
+}
+ .similar-fluid  .item-content .special-price {
+    margin: 0px;
+    display: block;
+    margin-bottom: 4px;
+}
+ .similar-fluid .pricepart{
+    margin-bottom: 5px;
+    padding-top: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    float: right;
+}
+.similar-fluid .pricepart .price {
+    font-size: 12px;
+    color: #126be8;
+    font-weight: 550;
+}
+.similar-fluid .pricepart .old-price .price {
+    font-size: 12px;
+    color: #dadbdc;
+    font-weight: 500;
+}

@@ -1,0 +1,261 @@
+.cartdetail-fluid {
+    padding: 25px 40px 25px 40px!important;
+    border-radius: 4px;
+    border: 1px solid #f1eaea;
+    background: white;
+}
+.cartdetail-fluid .product-image-area .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.cartdetail-fluid .category-title h1 {
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    text-transform: inherit;
+}
+.cartdetail-fluid  .breadcrumbs a {
+    color: #b1b1b1;
+}
+
+.cartdetail-fluid  .profileform {
+    margin-top: 20px;
+}
+
+[type="date"] {
+  background:#fff url('https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png')  97% 50% no-repeat !important;
+}
+[type="date"]::-webkit-inner-spin-button {
+  display: none;
+}
+[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+}
+input {
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 3px 5px;
+  box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+  width: 190px;
+}
+.profileform .form-control {
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 6px 6px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #000000;
+    border: 1px solid #b8c2d0;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.profileform .submitbutto{
+    margin-top: 22px;
+    height: 40px;
+    width: 100%;
+    background: #126be8;
+    border: 1px solid #126be8;
+    font-size: 14px;
+}
+.profileform .submitbutto:hover{
+    margin-top: 22px;
+    height: 40px;
+    width: 100%;
+    background: #126be8;
+    border: 1px solid #126be8;
+    font-size: 14px;
+}
+.profileform .clearbutto {
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    font-size: 14px;
+    color: #969090;
+    text-align: left;
+}
+.profileform .clearbutto:hover{
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    font-size: 14px;
+    color: #969090;
+    text-align: left;
+}
+.cartdetail-fluid .breadcrumbs {
+    background: none repeat scroll 0 0 #f5f5f5;
+    font-size: 11px;
+    padding: 20px 0px;
+    border-bottom: 0px solid #e6e4e4;
+}
+.cartdetail-fluid .category-title {
+    border-bottom: 0px solid #e6e4e4;
+}
+
+.cartdetail-fluid .category-title .editprofile{
+    float: right;
+}
+.cartdetail-fluid .category-title .editprofile a{
+    color: #ffffff;
+    font-size: 14px;
+    background: #126be8;
+    padding: 15px 44px;
+    line-height: 50px;
+    border-radius: 10px;
+}
+.cartdetail-fluid .productcart-fluid td h3{
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.cartdetail-fluid .productcart-fluid td h4{
+    font-size: 14px;
+    color: #969696;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.cartdetail-fluid .productcart-fluid td h4 span{
+    color: #1b1a1a;
+}
+.cartdetail-fluid .productcart-fluid td .add-to-box {
+    margin: 0px 0 0px;
+        padding: 0px 0px 0px 0px;
+    }
+.cartdetail-fluid .productcart-fluid td    .pro-quantity .add-to-cart .qty{
+        box-shadow: none;
+        height: 35px;
+        width: 35px;
+    }
+.cartdetail-fluid .productcart-fluid td    .pro-quantity .add-to-cart label    {
+    display: block;
+    float: none;
+    margin-bottom: 0px;
+    text-align: left;
+    text-transform: initial;
+    font-family: 'Open Sans', sans-serif;
+    color: #717171;
+}
+.cartdetail-fluid .productcart-fluid td  .pro-quantity .custom button.items-count {
+    padding: 12px 10px 12px 10px;
+}
+.cartdetail-fluid .productcart-fluid td  .form-group{
+    margin-top: 10px;
+}
+.cartdetail-fluid .productcart-fluid td  .form-group .form-control {
+    display: block;
+    width: 100%;
+    height: 35px;
+    font-size: 14px;
+    line-height: 0;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #797979;
+    border-radius: 4px;
+    box-shadow: none;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.cartdetail-fluid .productcart-fluid td  .form-group label    {
+    display: block;
+    float: none;
+    margin-bottom: 10px;
+    text-align: left;
+    text-transform: initial;
+    font-family: 'Open Sans', sans-serif;
+    color: #717171;
+}
+.cartdetail-fluid .productcart-fluid td  .price{
+    margin-top: 10px;
+}
+.cartdetail-fluid .productcart-fluid td  .price label    {
+    display: block;
+    float: none;
+    margin-bottom: 10px;
+    text-align: left;
+    text-transform: initial;
+    font-family: 'Open Sans', sans-serif;
+    color: #717171;
+}
+.cartdetail-fluid .productcart-fluid td  .price h4 {
+    font-size: 20px;
+    color: #000000;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+.cartdetail-fluid .productcart-fluid td .delete{
+    margin-top: 35px;
+}
+.cartdetail-fluid .productcart-fluid td .delete .fa {
+    padding: 8px 10px;
+    background: #f9e5e5;
+    font-size: 16px;
+    color: #ff3a3a;
+    font-weight: 400;
+    border-radius: 25px;
+}
+
+.continueshopping {
+    margin-top: 20px;
+    border-top: 1px solid #d2cbcb;
+    padding-top: 30px;
+}
+.continueshopping .leftpart a{
+    background: #deecff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #126be8;
+}
+.continueshopping .leftpart a .fa{
+margin-right: 10px;
+}
+.continueshopping .rightpart h4{
+    margin-top: 0px;
+    float: right;
+    font-size: 20px;
+    font-weight: 600;
+    color: #212020;
+}
+.continueshopping .rightpart h4 span {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #a7a4a4;
+}
+
+.need--help-icon{
+    font-size: 22px;
+    margin-top: 22px;
+    margin-left: -19px;
+}
+
+.Other__Detail{
+    right: 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+    align-items: flex-end;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: end; */
+    align-items: center;
+    margin-top: 10px;
+}

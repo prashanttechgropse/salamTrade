@@ -1,0 +1,137 @@
+.payment-fluid {
+    padding: 25px 40px 25px 40px!important;
+    border-radius: 4px;
+    border: 1px solid #f1eaea;
+    background: white;
+}
+.payment-fluid .category-title {
+
+    border-bottom: none;
+}
+.payment-fluid  .category-title h1 {
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    text-transform: inherit;
+}
+.paymentmode {
+    margin-top: 40px;
+    border: 1px solid #e7e8e8;
+    padding: 20px 20px 20px 19px;
+}
+.paymentmode .radiocontainer{
+    display: block;
+    position: relative;
+    padding-left: 46px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    font-weight: 550;
+}
+.paymentmode .radiocontainer input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+.paymentmode  ul li{
+    margin-bottom: 50px;
+}
+.paymentmode .checkmark {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #c7ced8;
+  border-radius: 50%;
+}
+
+.paymentmode .radiocontainer:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.paymentmode .radiocontainer input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+.paymentmode .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.paymentmode .radiocontainer input:checked ~ .checkmark:after {
+  display: block;
+}
+.paymentmode .radiocontainer input {
+  display: block;
+}
+.paymentmode .radiocontainer .checkmark:after {
+    top: 5px;
+    left: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: white;
+}
+.paymentmode .radiocontainer input:after {
+    top: 5px;
+    left: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: white;
+}
+.paymentmode .radiocontainer img{
+    margin-top: -5px;
+    width: 80px;
+    height: auto;
+}
+
+.mm22{
+    margin-top: 22px;
+}
+.paymentmode .cardform .form-control {
+    display: block;
+    width: 100%;
+    height: 44px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #c3c1c1;
+    border-radius: 8px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.paymentmode .cardform  {
+    margin-left: 45px;
+    border: 1px solid #e0dbdb;
+    border-radius: 8px;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+.payment-fluid .paynow{
+    color: #fff;
+    background-color: #2480fe;
+    border-color: #2480fe;
+    width: 100%;
+    height: 44px;
+    border-radius: 8px;
+}
+.payment-fluid .securemode{
+    margin-top: 12px;
+}
+.payment-fluid .securemode p{
+    color: #a7a7a7;
+    text-align: center;
+    font-size: 14px;
+}

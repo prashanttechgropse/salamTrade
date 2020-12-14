@@ -1,0 +1,19 @@
+
+.categories-fluid .react-multi-carousel-track li {
+    width:230px!important;
+}
+.categories-fluid .categoryslider .sliderimage img{
+    width: 200px;
+    height: 250px;
+}
+.categories-fluid .categoryslider .categoryname{
+    margin-top: 10px;
+}
+.categories-fluid .categoryslider .categoryname a{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+.categories-fluid .react-multiple-carousel__arrow--left{
+    right: 8%;
+}

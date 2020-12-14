@@ -1,0 +1,13 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import './common/plugins/datatable/dataTables.bootstrap4.min.css';
+import './common/css/dashboard.css';
+import './common/plugins/charts-c3/c3-chart.css';
+import './common/plugins/morris/morris.css';
+import './common/plugins/scroll-bar/jquery.mCustomScrollbar.css';
+import './common/plugins/iconfonts/plugin.css';
+import './common/plugins/charts-c3/c3-chart.css';
+import './common/plugins/forn-wizard/css/material-bootstrap-wizard.css';
+import './common/plugins/forn-wizard/css/demo.css';
+ReactDOM.render(<App />, document.getElementById('root'));

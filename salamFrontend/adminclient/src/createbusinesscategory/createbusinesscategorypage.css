@@ -1,0 +1,21 @@
+.card-profile.vendorprofile{
+	background-image: url('http://gropse.com/gropse.com/design/fundmaster.com/admin/images/userback.jpg');    
+	background-position: center; 
+	background-size:cover;
+}
+
+.react-switch-bg {
+    height: 25px!important;
+	width: 50px!important;
+}
+.react-switch-handle{
+    height: 20px!important;
+    width: 20px!important;
+    top: 2px!important;
+}
+.tbody-td-default .example {
+    padding: 0px 10px;
+    border: 0px solid #eaeaea;
+    border-radius: 3px 3px 0 0;
+    font-size: 0.9375rem;
+}

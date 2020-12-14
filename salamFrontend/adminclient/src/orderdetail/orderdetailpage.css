@@ -1,0 +1,6 @@
+
+.order-detailpage  .table-vcenter td, .order-detailpage .table-vcenter th {
+    vertical-align: middle;
+    border-top: 1px solid #eaeaea;
+    text-align: center;
+}

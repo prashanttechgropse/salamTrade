@@ -1,0 +1,20 @@
+.header-salam .userimage img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.header-salam .header {
+
+    background: #2480fe;
+}
+
+
+.Header-Comment{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.Header-Comment--Icon{
+    width: 36px;
+    height: 37px;
+}

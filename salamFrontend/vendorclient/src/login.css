@@ -1,0 +1,15 @@
+.loginpage{
+    background:#267efa; 
+    background-size: cover !important;
+    height: 100vh;
+}
+.loginpage .loginbutton{
+    background: #2480fe;
+}
+.loginpage .signuptext  {
+    color: #635d5d !important;
+
+}
+.loginpage .signuptext a {
+    color: #2480fe;
+}

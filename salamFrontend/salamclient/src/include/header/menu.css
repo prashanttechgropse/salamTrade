@@ -1,0 +1,15 @@
+
+nav {
+    background: #126be8!important;
+}
+nav  #nav > li > a {
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 15px 85px 15px 10px;
+    text-decoration: none;
+    text-transform: initial;
+    font-weight: normal;
+}

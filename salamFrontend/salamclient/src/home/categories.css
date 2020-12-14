@@ -1,0 +1,122 @@
+.categories-fluid .owl-item .item {
+  margin: 0px 20px;
+}
+
+.categories-fluid .new_title h2 {
+  border: 1px solid #924d0100;
+  border-bottom: 2px solid #126be8;
+  color: #000000;
+  display: inline-block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: normal;
+  margin-top: 0px;
+  padding: 10px 15px 7px 15px;
+  position: relative;
+  text-transform: initial;
+  letter-spacing: 0.5px;
+}
+.categories-fluid .product-flexslider {
+  margin: 40px -10px;
+}
+.categories-fluid .new_title.center {
+  height: 43px;
+}
+.categories-fluid .slider-items-products .owl-buttons a {
+  margin: -40px 0 0;
+}
+
+.categories-fluid .slider-items-products .owl-buttons a:hover {
+  text-decoration: none;
+  opacity: 1;
+  color: #fff;
+  background: #126be8;
+  border: 1px #126be8 solid;
+}
+.categories-fluid .new_title {
+  border-bottom: 2px solid #dceaff;
+}
+.categories-fluid .col-item .info .info-inner .item-title a {
+  font-size: 16px;
+  color: #000;
+  font-weight: 600;
+}
+.categories-fluid .col-item .info {
+  text-align: left;
+}
+.categories-fluid .col-item .info .info-inner .item-title a:hover {
+  color: #126be8;
+}
+.signuploader {
+  z-index: 999;
+  position: fixed;
+  margin-top: 20%;
+  top: 0;
+  left: 47%;
+}
+.signuploader svg {
+  stroke: #267efa;
+}
+
+.vishaldummy ul li {
+  width: 20%;
+  float: left;
+  padding-right: 20px;
+}
+
+.Product-Info {
+  width: 100%;
+  padding: 5px 16px 8px;
+  transition: -webkit-transform 0.35s cubic-bezier(0.17, 0.67, 0.21, 1);
+  transition: transform 0.35s cubic-bezier(0.17, 0.67, 0.21, 1);
+  transition: transform 0.35s cubic-bezier(0.17, 0.67, 0.21, 1),
+    -webkit-transform 0.35s cubic-bezier(0.17, 0.67, 0.21, 1);
+  will-change: transform;
+  position: relative;
+  background: #fff;
+  z-index: 2;
+  text-align: center;
+  font-family: Roboto, Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+.Product-Info--Brand {
+  color: #878787;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.Product-Info--Name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 5px;
+  font-weight: 500;
+  margin-top: 15px;
+  color: #000000;
+  font-size: 18px;
+}
+
+.Product-Info--Price {
+  font-size: 13px;
+}
+.Product-Info--CurrentPrice {
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 4px;
+  display: inline-block;
+  padding-right: 5px;
+  color: #126be8;
+}
+.Product-Info--PreviousPrice {
+  padding-top: 7px;
+  display: inline-block;
+  display: inline-block;
+  text-decoration: line-through;
+  color: #535353;
+  opacity: 0.5;
+}
+.newproduct-fluid .react-multiple-carousel__arrow--left {
+  left: auto;
+}

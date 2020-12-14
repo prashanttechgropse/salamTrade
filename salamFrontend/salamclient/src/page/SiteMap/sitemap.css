@@ -1,0 +1,27 @@
+.site-map {
+    padding: 30px 0;
+}
+.site-map .heading-1 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.site-map .heading-2 {
+    /* background: #126be8; */
+    /* color: #fff; */
+    font-size: 20px;
+    padding: 10px 0;
+}
+.site-map .para-styling {
+    font-size: 14px;
+    color: #08223a;
+    font-weight: 500;
+}
+.site-map ul {
+    padding-left: 15px;
+}
+.site-map ul li{
+    font-size: 12px;
+    font-weight: 550;
+}
